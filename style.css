@@ -1,0 +1,28 @@
+:root {
+    font-size: 75.7%;
+    font-family: Montserrat, sans-serif;
+}
+
+h1  {
+    font-size: 3.5rem;
+    font-weight: 400;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color: #3974b79d
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.container {
+    width: 96rem;
+    margin: 2rem auto;
+}
+
+.gallery-item {
+    
+}
